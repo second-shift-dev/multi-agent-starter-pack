@@ -3,6 +3,9 @@
 
 Hi. If you landed here, you probably have the same problem I had: one agent is helpful, two are useful, and somewhere around three your codebase turns into a group project where nobody talks to each other. This pack is the starter version of the system I use to keep that from happening.
 
+**Get it by email and join the list:** https://second-shift-dev.kit.com/f1a6475d0f
+You get the same pack, plus an email when a new video or the full kit drops. No spam, unsubscribe in one click. Or just download the files below, no email needed.
+
 ## What's inside
 1. `CLAUDE.template--general-repo.md`: a CLAUDE.md skeleton for any repository. Commands, conventions, boundaries, verification.
 2. `CLAUDE.template--python-microservice.md`: the same idea, tuned for a Python API or microservice. Thin handlers, one place for config, strict test rules.
